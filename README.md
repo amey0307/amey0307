@@ -32,9 +32,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=amey0307.amey0307&"  />
-</div>
+<img src="https://raw.githubusercontent.com/amey0307/amey0307/output/snake.svg" alt="Snake animation" />
 
 ###
 
